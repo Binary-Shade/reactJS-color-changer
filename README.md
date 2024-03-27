@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to [your-email@example.com](mailto:sureshk0204@protonmail.me. You can also open an issue in this repository.
+If you have any questions or suggestions, feel free to reach out to [02042003sureshk@gmail.com]. You can also open an issue in this repository.
 
 Thank you for checking out the Color Changer App! Happy coding! 🎨
